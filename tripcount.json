@@ -1,0 +1,387 @@
+[
+ {
+   "FIELD1": 1,
+   "Pick": 1,
+   "Counts": 9
+ },
+ {
+   "FIELD1": 2,
+   "Pick": 2,
+   "Counts": 8
+ },
+ {
+   "FIELD1": 3,
+   "Pick": 3,
+   "Counts": 28
+ },
+ {
+   "FIELD1": 4,
+   "Pick": 4,
+   "Counts": 11
+ },
+ {
+   "FIELD1": 5,
+   "Pick": 5,
+   "Counts": 11
+ },
+ {
+   "FIELD1": 6,
+   "Pick": 6,
+   "Counts": 215
+ },
+ {
+   "FIELD1": 7,
+   "Pick": 7,
+   "Counts": 83
+ },
+ {
+   "FIELD1": 8,
+   "Pick": 8,
+   "Counts": 1213
+ },
+ {
+   "FIELD1": 9,
+   "Pick": 9,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 10,
+   "Pick": 10,
+   "Counts": 9
+ },
+ {
+   "FIELD1": 11,
+   "Pick": 11,
+   "Counts": 7
+ },
+ {
+   "FIELD1": 12,
+   "Pick": 12,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 13,
+   "Pick": 13,
+   "Counts": 3
+ },
+ {
+   "FIELD1": 14,
+   "Pick": 14,
+   "Counts": 2
+ },
+ {
+   "FIELD1": 15,
+   "Pick": 15,
+   "Counts": 5
+ },
+ {
+   "FIELD1": 16,
+   "Pick": 16,
+   "Counts": 11
+ },
+ {
+   "FIELD1": 17,
+   "Pick": 17,
+   "Counts": 1
+ },
+ {
+   "FIELD1": 18,
+   "Pick": 18,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 19,
+   "Pick": 19,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 20,
+   "Pick": 20,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 21,
+   "Pick": 21,
+   "Counts": 16
+ },
+ {
+   "FIELD1": 22,
+   "Pick": 22,
+   "Counts": 16
+ },
+ {
+   "FIELD1": 23,
+   "Pick": 23,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 24,
+   "Pick": 24,
+   "Counts": 54
+ },
+ {
+   "FIELD1": 25,
+   "Pick": 25,
+   "Counts": 2
+ },
+ {
+   "FIELD1": 26,
+   "Pick": 26,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 27,
+   "Pick": 27,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 28,
+   "Pick": 28,
+   "Counts": 315
+ },
+ {
+   "FIELD1": 29,
+   "Pick": 29,
+   "Counts": 1
+ },
+ {
+   "FIELD1": 30,
+   "Pick": 30,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 31,
+   "Pick": 31,
+   "Counts": 3
+ },
+ {
+   "FIELD1": 32,
+   "Pick": 32,
+   "Counts": 1256
+ },
+ {
+   "FIELD1": 33,
+   "Pick": 33,
+   "Counts": 145
+ },
+ {
+   "FIELD1": 34,
+   "Pick": 34,
+   "Counts": 8
+ },
+ {
+   "FIELD1": 35,
+   "Pick": 35,
+   "Counts": 7
+ },
+ {
+   "FIELD1": 36,
+   "Pick": 36,
+   "Counts": 1
+ },
+ {
+   "FIELD1": 37,
+   "Pick": 37,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 38,
+   "Pick": 38,
+   "Counts": 1
+ },
+ {
+   "FIELD1": 39,
+   "Pick": 39,
+   "Counts": 2
+ },
+ {
+   "FIELD1": 40,
+   "Pick": 40,
+   "Counts": 1
+ },
+ {
+   "FIELD1": 41,
+   "Pick": 41,
+   "Counts": 30
+ },
+ {
+   "FIELD1": 42,
+   "Pick": 42,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 43,
+   "Pick": 43,
+   "Counts": 1
+ },
+ {
+   "FIELD1": 44,
+   "Pick": 44,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 45,
+   "Pick": 45,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 46,
+   "Pick": 46,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 47,
+   "Pick": 47,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 48,
+   "Pick": 48,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 49,
+   "Pick": 49,
+   "Counts": 3
+ },
+ {
+   "FIELD1": 50,
+   "Pick": 50,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 51,
+   "Pick": 51,
+   "Counts": 1
+ },
+ {
+   "FIELD1": 52,
+   "Pick": 52,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 53,
+   "Pick": 53,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 54,
+   "Pick": 54,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 55,
+   "Pick": 55,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 56,
+   "Pick": 56,
+   "Counts": 53
+ },
+ {
+   "FIELD1": 57,
+   "Pick": 57,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 58,
+   "Pick": 58,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 59,
+   "Pick": 59,
+   "Counts": 2
+ },
+ {
+   "FIELD1": 60,
+   "Pick": 60,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 61,
+   "Pick": 61,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 62,
+   "Pick": 62,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 63,
+   "Pick": 63,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 64,
+   "Pick": 64,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 65,
+   "Pick": 65,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 66,
+   "Pick": 66,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 67,
+   "Pick": 67,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 68,
+   "Pick": 68,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 69,
+   "Pick": 69,
+   "Counts": 1
+ },
+ {
+   "FIELD1": 70,
+   "Pick": 70,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 71,
+   "Pick": 71,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 72,
+   "Pick": 72,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 73,
+   "Pick": 73,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 74,
+   "Pick": 74,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 75,
+   "Pick": 75,
+   "Counts": 0
+ },
+ {
+   "FIELD1": 76,
+   "Pick": 76,
+   "Counts": 224
+ },
+ {
+   "FIELD1": 77,
+   "Pick": 77,
+   "Counts": 26
+ }
+]
